@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ap0The0Z</h1>
+<h1 align="center">Hi, I'm Ap0The0Z <img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" width="50px"/></h1>
 <h3 align="center">I am a French developer with a passion for operating systems, to create a technology that unites all devices in a single program.</h3>
 
 - 🔭 I’m currently working on: **Mystery!**
